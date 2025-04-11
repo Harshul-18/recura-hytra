@@ -4,13 +4,17 @@
 
 ReCura is an integrated health monitoring system designed to provide real-time insights into patient health metrics and predict readmission risk. The platform uses machine learning models to analyze patient data and provide healthcare professionals and patients with actionable information.
 
+Project Architecture
+
 ![Project Architecture](Assets/Project_architecture.png)
+
+Application Workflow
 
 ![Application Workflow](Assets/Application_Workflow.png)
 
 ## Architecture
 
-ReCura follows a three-tier architecture:
+The Project follows a three-tier architecture:
 
 ### 1. Data Preparation
 
@@ -25,7 +29,7 @@ ReCura follows a three-tier architecture:
   - Random Forests
   - Decision Trees
 
-### 3. Application Deployment
+### 3. Web Application Deployment
 
 #### MongoDB (NoSQL Database)
 - Cloud and local server options for data storage
