@@ -1,0 +1,22 @@
+# Web application framework
+streamlit>=1.22.0
+streamlit-option-menu>=0.3.2
+
+# Data processing and visualization
+pandas>=1.5.0
+numpy>=1.23.0
+plotly>=5.13.0
+
+# Machine learning
+scikit-learn>=1.2.0
+pygam>=0.8.0
+
+# Database
+pymongo>=4.3.0
+dnspython>=2.3.0 
+
+# Security
+bcrypt>=4.0.0
+
+# Optional - for deployment
+python-dotenv>=1.0.0 
