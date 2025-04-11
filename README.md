@@ -12,6 +12,14 @@ Application Workflow
 
 ![Application Workflow](Assets/Application_Workflow.png)
 
+## Application Screenshots
+
+| Admin Dashboard | Patient Dashboard |
+|:---------------:|:-----------------:|
+| ![Admin Dashboard](Assets/admin_side.png) | ![Patient Dashboard](Assets/patient_dashboard.png) |
+| *Healthcare provider interface with analytics and model training capabilities* | *Patient interface showing real-time personalized health metrics and risk assessment* |
+
+
 ## Architecture
 
 The Project follows a three-tier architecture:
